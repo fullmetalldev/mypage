@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.208d3bee.css",
+    "main.js": "/static/js/main.96abd44e.js",
+    "static/media/ticketsfast.png": "/static/media/ticketsfast.2bf669fea743bea87a79.png",
+    "static/media/indicorp.png": "/static/media/indicorp.0f308a791e70b4ce140d.png",
+    "static/media/box.png": "/static/media/box.324c0b7c3d3ee7913a0a.png",
+    "static/media/furniture.png": "/static/media/furniture.bfef7dfc6f6d8f5640e1.png",
+    "static/media/man.png": "/static/media/man.a70332c4623255027286.png",
+    "static/media/css.png": "/static/media/css.f87df24583ca75f4a9dd.png",
+    "static/media/photo.png": "/static/media/photo.22e14244ff289ecd3473.png",
+    "static/media/werulee.png": "/static/media/werulee.8b706c13c6388bef33dd.png",
+    "static/media/html.png": "/static/media/html.15f2b9f8070a2f8fe3d1.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.1b4b0f96d65e6dc01bea.png",
+    "static/media/jQuery.png": "/static/media/jQuery.ece7743fd82940b2f0ac.png",
+    "static/media/database.png": "/static/media/database.84f3f371923bb8ba260e.png",
+    "static/media/react.png": "/static/media/react.c562aeb82e0ffc7bff09.png",
+    "static/media/Javascript.png": "/static/media/Javascript.0558839139d956cbd2ce.png",
+    "index.html": "/index.html",
+    "main.208d3bee.css.map": "/static/css/main.208d3bee.css.map",
+    "main.96abd44e.js.map": "/static/js/main.96abd44e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208d3bee.css",
+    "static/js/main.96abd44e.js"
+  ]
+}
